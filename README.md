@@ -26,3 +26,6 @@ The "Vehicle Dataset 2024" dataset was found through Kaggle.com and is available
 - **exterior_color**: The exterior color of the vehicle.
 - **interior_color**: The interior color of the vehicle.
 - **drivetrain**: The drivetrain of the vehicle (e.g., All-wheel Drive, Front-wheel Drive).
+
+
+![image](https://github.com/user-attachments/assets/9fd36685-6480-4701-b0d3-4ee8666602c4)
